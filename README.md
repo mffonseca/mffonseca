@@ -1,6 +1,6 @@
 ### Hi there 👋, 
 
-I'm Marcos Fonseca, Principal Engineer II at [Iugu](https://iugu.com) and founder of [Rizer](https://rizer.com.br), a low-code platform for system creation.
+I'm Marcos Fonseca, Principal Engineer II at [Iugu](https://iugu.com) and founder at [Rizer](https://rizer.com.br), a low-code platform for system creation.
 
 - 📫 How to reach me: 
 
